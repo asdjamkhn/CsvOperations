@@ -1,0 +1,6 @@
+﻿SourceHeader,TargetHeader,DataType,MetaData,Compare
+Index1,Index2,Integer,,
+Organization Id1,Organization Id2,String,,yes
+Name1,Name2,String,,
+Height1,Height2,BigDecimal,3,yes
+DateOfBirth1,DateOfBirth2,Date,dd-MM-yyyy,
